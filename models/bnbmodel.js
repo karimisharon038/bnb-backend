@@ -28,3 +28,4 @@ availableTo: { type: Date, required: true },
 );
 
 module.exports = mongoose.model("BnB", bnbSchema);
+
